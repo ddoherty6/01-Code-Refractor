@@ -15,4 +15,4 @@ Over 100 lines of code eliminated. Removed redundant rules and declarations!!
 
 ## Screenshot!
 
-![ScreenShot](https://raw.github.com/ddoherty6/01-Code-Refractor/main/assets/images/screenshot.jpg)
+![ScreenShot](assets/images/screenshot.jpg)
