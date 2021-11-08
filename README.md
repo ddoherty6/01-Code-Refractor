@@ -1,4 +1,4 @@
-CD A# Adapting Horiseon's Website to Meet Accesability Standards
+# Adapting Horiseon's Website to Meet Accesability Standards
 
 Horiseon Social Solution Services, Inc. (Client) has contracted DiamondSoft LLC to update Client's website to meet modern web accesibility standards. Final scope of work includes:
 
