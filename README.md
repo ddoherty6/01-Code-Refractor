@@ -15,4 +15,4 @@ Over 100 lines of code eliminated. Removed redundant rules and declarations!!
 
 ## Screenshot!
 
-![ScreenShot](assets/images/screenshot.jpg)
+![ScreenShot](assets/images/screenshot.png)
